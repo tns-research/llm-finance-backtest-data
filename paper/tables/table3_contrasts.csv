@@ -1,0 +1,25 @@
+symbol,metric,contrast,effect,n,mean_diff,ci_low,ci_high,p,p_holm,same_sign_all_assets
+AAPL,brier,memory_only - baseline,memory,59,0.00024,-0.00433,0.00426,0.8952,0.8952,True
+AAPL,brier,memory_feeling - memory_only,feeling,59,0.00154,-0.00131,0.00405,0.2796,0.8388,True
+AAPL,brier,memory_only_cot - memory_only,reasoning,59,0.0017,-0.00149,0.00507,0.328,0.8388,True
+AAPL,confidence,memory_only - baseline,memory,60,0.03417,0.01875,0.04917,0.0,0.0,True
+AAPL,confidence,memory_feeling - memory_only,feeling,60,0.00467,-0.00767,0.01738,0.4788,0.4788,False
+AAPL,confidence,memory_only_cot - memory_only,reasoning,60,0.03117,0.015,0.0451,0.0,0.0,True
+AAPL,turnover,memory_only - baseline,memory,60,-0.01772,-0.04487,0.00758,0.164,0.492,True
+AAPL,turnover,memory_feeling - memory_only,feeling,60,0.00053,-0.02071,0.02076,0.9176,1.0,False
+AAPL,turnover,memory_only_cot - memory_only,reasoning,60,-0.00402,-0.02185,0.01672,0.658,1.0,True
+AAPL,return,memory_only - baseline,memory,59,-0.00033,-0.00067,-4e-05,0.0256,0.0768,True
+AAPL,return,memory_feeling - memory_only,feeling,59,0.00014,-0.00036,0.00072,0.6316,1.0,True
+AAPL,return,memory_only_cot - memory_only,reasoning,59,1e-05,-0.00023,0.00026,0.9768,1.0,False
+SPY,brier,memory_only - baseline,memory,59,0.00463,0.00101,0.00828,0.0128,0.0384,True
+SPY,brier,memory_feeling - memory_only,feeling,59,0.00204,-0.00215,0.00639,0.3476,0.6952,True
+SPY,brier,memory_only_cot - memory_only,reasoning,59,0.00195,-0.00241,0.00644,0.3972,0.6952,True
+SPY,confidence,memory_only - baseline,memory,60,0.045,0.0275,0.06132,0.0,0.0,True
+SPY,confidence,memory_feeling - memory_only,feeling,60,-0.01667,-0.03705,0.0005,0.056,0.056,False
+SPY,confidence,memory_only_cot - memory_only,reasoning,60,0.03367,0.02436,0.04206,0.0,0.0,True
+SPY,turnover,memory_only - baseline,memory,60,-0.00014,-0.02082,0.02103,0.9596,1.0,True
+SPY,turnover,memory_feeling - memory_only,feeling,60,-0.00992,-0.03106,0.01473,0.4128,1.0,False
+SPY,turnover,memory_only_cot - memory_only,reasoning,60,-0.00177,-0.01657,0.01502,0.7976,1.0,True
+SPY,return,memory_only - baseline,memory,59,-0.00014,-0.00033,0.0,0.0612,0.1836,True
+SPY,return,memory_feeling - memory_only,feeling,59,7e-05,-8e-05,0.00021,0.3384,0.6768,True
+SPY,return,memory_only_cot - memory_only,reasoning,59,-2e-05,-0.00015,0.0001,0.7184,0.7184,False

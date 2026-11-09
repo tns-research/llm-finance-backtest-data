@@ -17,6 +17,8 @@ Code: [LLM Finance Framework v0.9.0](https://github.com/tns-research/llm-finance
 | `run.log` | Log of the run. |
 | `dataset_prices.py` | Script that downloads the prices again and restores the full database. |
 | `SHA256SUMS` | Checksums of the data files. |
+| `paper/tables/`, `paper/figures/` | Every table and figure of the v0.9 paper. |
+| `paper/make_assets.py` | Script that rebuilds them from the restored database. |
 
 Tables of `run_noprices.db`:
 
@@ -55,6 +57,15 @@ python -c "from src.live.reporting import build_reports; build_reports('results/
 The first command downloads the daily and hourly bars, recomputes each snapshot and fill price with the
 framework's code, fills the placeholders back in, and checks all 604 checksums. On 2026-11-04 all 604
 matched. The second command regenerates every report, table and figure of the backtest.
+
+To rebuild the paper's tables and figures, then run:
+
+```bash
+python paper/make_assets.py /path/to/llm-finance-framework results/backtest paper-rebuilt
+```
+
+On 2026-11-09, run from a fresh clone of v0.9.0, it reproduced the five tables of `paper/tables/` byte for byte.
+The example prompts of the paper's appendix are the `SPY` rows of `decisions` dated 2026-10-15.
 
 The bootstrap tests of the statistical validation use a fixed seed, so rebuilt reports match the
 published ones exactly, apart from their generation timestamps.

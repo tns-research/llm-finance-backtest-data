@@ -1,0 +1,26 @@
+{
+  "slots": 120,
+  "slot_status": {
+    "filled": 120
+  },
+  "llm_decisions": 480,
+  "decision_status": {
+    "ok": 480
+  },
+  "models_returned": {
+    "claude-haiku-5-5": 480
+  },
+  "reflections": 96,
+  "reflection_status": {
+    "ok": 96
+  },
+  "reflections_by_period": {
+    "week": 72,
+    "month": 18,
+    "quarter": 6
+  },
+  "first_slot": "2026-08-10T15:30",
+  "last_slot": "2026-11-02T15:30",
+  "first_call": "2026-11-03T14:40:36.149356-05:00",
+  "last_call": "2026-11-03T14:59:09.746514-05:00"
+}
