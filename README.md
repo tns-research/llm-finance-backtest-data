@@ -58,10 +58,10 @@ The first command downloads the daily and hourly bars, recomputes each snapshot 
 framework's code, fills the placeholders back in, and checks all 604 checksums. On 2026-11-04 all 604
 matched. The second command regenerates every report, table and figure of the backtest.
 
-To rebuild the paper's tables and figures, then run:
+To rebuild the paper's tables and figures, run from the same clone of the framework:
 
 ```bash
-python paper/make_assets.py /path/to/llm-finance-framework results/backtest paper-rebuilt
+python /path/to/this/dataset/paper/make_assets.py . results/backtest paper-rebuilt
 ```
 
 On 2026-11-09, run from a fresh clone of v0.9.0, it reproduced the five tables of `paper/tables/` byte for byte.
