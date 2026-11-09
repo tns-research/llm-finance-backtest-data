@@ -1,0 +1,15 @@
+{
+  "upload_type": "dataset",
+  "title": "LLM Finance Framework v0.9: 60-session backtest of Claude Haiku 5.5 (model outputs)",
+  "description": "Every model call of the 60-session backtest described in the v0.9 paper of the LLM Finance Framework: Claude Haiku 5.5 through Claude Code, New York sessions from 2026-08-10 to 2026-11-02, one decision per session at 15:30 with fills at the 16:00 close, on SPY and AAPL, four LLM arms and two control arms. The SQLite database holds prompts, raw answers, parsed decisions, reflections and paper portfolios. Yahoo Finance prices are not included; a script rebuilds them with the framework code and checks 604 checksums.",
+  "creators": [
+    {"name": "Sitjar, Théo Nicolas", "orcid": "0009-0002-6728-0169"}
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": ["large language models", "trading", "calibration", "backtest", "LLM agents", "finance"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.24061577", "relation": "isSupplementTo", "resource_type": "software"},
+    {"identifier": "https://github.com/tns-research/llm-finance-framework", "relation": "isSupplementTo", "resource_type": "software"}
+  ]
+}

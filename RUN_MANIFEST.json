@@ -1,0 +1,79 @@
+{
+  "schema": "llm-finance-live-manifest/v1",
+  "generated_at_utc": "2026-11-03T19:40:34+00:00",
+  "git_sha": "b84f1a1-dirty",
+  "python": "3.11.2",
+  "platform": "Linux-4.19.0-gvisor-x86_64-with-glibc2.36",
+  "dependencies": {
+    "pandas": "3.0.3",
+    "numpy": "2.4.6",
+    "scipy": "1.17.1",
+    "matplotlib": "3.10.9",
+    "requests": "2.34.2"
+  },
+  "claude_code_version": "2.1.317 (Claude Code)",
+  "settings_fingerprint": "d570755aa70abdc523a7a33601fc58aa3db63c67a059232358e9503e2d274764",
+  "settings": {
+    "symbols": [
+      "SPY",
+      "AAPL"
+    ],
+    "decisions_per_day": 1,
+    "provider": "claude_code",
+    "model": "claude-haiku-5-5",
+    "personality": "balanced",
+    "journal_trading_days": 10,
+    "starting_equity": 100000.0,
+    "execution_delay_minutes": 30,
+    "cost_bps": 2.0,
+    "call_timeout_seconds": 480,
+    "max_parallel_calls": 8,
+    "period_reflections": true,
+    "auto_report": false,
+    "slot_times_override": [
+      "15:30"
+    ],
+    "arms": [
+      {
+        "name": "baseline",
+        "journal": false,
+        "feeling": false,
+        "reasoning": false,
+        "indicators": true,
+        "trade_history": false,
+        "team": false,
+        "model": ""
+      },
+      {
+        "name": "memory_only",
+        "journal": true,
+        "feeling": false,
+        "reasoning": false,
+        "indicators": true,
+        "trade_history": false,
+        "team": false,
+        "model": ""
+      },
+      {
+        "name": "memory_feeling",
+        "journal": true,
+        "feeling": true,
+        "reasoning": false,
+        "indicators": true,
+        "trade_history": false,
+        "team": false,
+        "model": ""
+      },
+      {
+        "name": "memory_only_cot",
+        "journal": true,
+        "feeling": false,
+        "reasoning": true,
+        "indicators": true,
+        "trade_history": false,
+        "team": false,
+        "model": ""
+      }
+    ]
+  }
+}

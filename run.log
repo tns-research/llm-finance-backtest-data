@@ -1,0 +1,635 @@
+2026-11-03 19:40:35,927 INFO AAPL 2026-08-10: dividend 0.27, split 0.0 applied
+2026-11-03 19:40:50,298 INFO slot 2026-08-10T15:30 done (1/60)
+2026-11-03 19:41:05,225 INFO slot 2026-08-11T15:30 done (2/60)
+2026-11-03 19:41:20,286 INFO slot 2026-08-12T15:30 done (3/60)
+2026-11-03 19:41:41,993 INFO slot 2026-08-13T15:30 done (4/60)
+2026-11-03 19:41:57,502 INFO slot 2026-08-14T15:30 done (5/60)
+2026-11-03 19:42:25,369 INFO slot 2026-08-17T15:30 done (6/60)
+2026-11-03 19:42:40,579 INFO slot 2026-08-18T15:30 done (7/60)
+2026-11-03 19:42:54,132 INFO slot 2026-08-19T15:30 done (8/60)
+2026-11-03 19:43:10,387 INFO slot 2026-08-20T15:30 done (9/60)
+2026-11-03 19:43:24,903 INFO slot 2026-08-21T15:30 done (10/60)
+2026-11-03 19:43:51,411 INFO slot 2026-08-24T15:30 done (11/60)
+2026-11-03 19:44:05,926 INFO slot 2026-08-25T15:30 done (12/60)
+2026-11-03 19:44:20,277 INFO slot 2026-08-26T15:30 done (13/60)
+2026-11-03 19:44:34,176 INFO slot 2026-08-27T15:30 done (14/60)
+2026-11-03 19:44:48,655 INFO slot 2026-08-28T15:30 done (15/60)
+2026-11-03 19:45:15,356 INFO slot 2026-08-31T15:30 done (16/60)
+2026-11-03 19:45:42,197 INFO slot 2026-09-01T15:30 done (17/60)
+2026-11-03 19:45:56,431 INFO slot 2026-09-02T15:30 done (18/60)
+2026-11-03 19:46:11,266 INFO slot 2026-09-03T15:30 done (19/60)
+2026-11-03 19:46:26,808 INFO slot 2026-09-04T15:30 done (20/60)
+2026-11-03 19:46:54,109 INFO slot 2026-09-08T15:30 done (21/60)
+2026-11-03 19:47:10,475 INFO slot 2026-09-09T15:30 done (22/60)
+2026-11-03 19:47:29,836 INFO slot 2026-09-10T15:30 done (23/60)
+2026-11-03 19:47:45,710 INFO slot 2026-09-11T15:30 done (24/60)
+2026-11-03 19:48:13,505 INFO slot 2026-09-14T15:30 done (25/60)
+2026-11-03 19:48:28,606 INFO slot 2026-09-15T15:30 done (26/60)
+2026-11-03 19:48:43,520 INFO slot 2026-09-16T15:30 done (27/60)
+2026-11-03 19:48:57,627 INFO slot 2026-09-17T15:30 done (28/60)
+2026-11-03 19:48:57,628 INFO SPY 2026-09-18: dividend 1.889, split 0.0 applied
+2026-11-03 19:49:13,611 INFO slot 2026-09-18T15:30 done (29/60)
+2026-11-03 19:49:41,235 INFO slot 2026-09-21T15:30 done (30/60)
+2026-11-03 19:49:57,429 INFO slot 2026-09-22T15:30 done (31/60)
+2026-11-03 19:50:12,375 INFO slot 2026-09-23T15:30 done (32/60)
+2026-11-03 19:50:26,638 INFO slot 2026-09-24T15:30 done (33/60)
+2026-11-03 19:50:41,956 INFO slot 2026-09-25T15:30 done (34/60)
+2026-11-03 19:51:11,616 INFO slot 2026-09-28T15:30 done (35/60)
+2026-11-03 19:51:28,112 INFO slot 2026-09-29T15:30 done (36/60)
+2026-11-03 19:51:44,197 INFO slot 2026-09-30T15:30 done (37/60)
+2026-11-03 19:52:21,318 INFO slot 2026-10-01T15:30 done (38/60)
+2026-11-03 19:52:35,699 INFO slot 2026-10-02T15:30 done (39/60)
+2026-11-03 19:53:01,008 INFO slot 2026-10-05T15:30 done (40/60)
+2026-11-03 19:53:14,303 INFO slot 2026-10-06T15:30 done (41/60)
+2026-11-03 19:53:29,897 INFO slot 2026-10-07T15:30 done (42/60)
+2026-11-03 19:53:44,808 INFO slot 2026-10-08T15:30 done (43/60)
+2026-11-03 19:54:00,134 INFO slot 2026-10-09T15:30 done (44/60)
+2026-11-03 19:54:27,660 INFO slot 2026-10-12T15:30 done (45/60)
+2026-11-03 19:54:43,743 INFO slot 2026-10-13T15:30 done (46/60)
+2026-11-03 19:54:59,814 INFO slot 2026-10-14T15:30 done (47/60)
+2026-11-03 19:55:15,438 INFO slot 2026-10-15T15:30 done (48/60)
+2026-11-03 19:55:31,878 INFO slot 2026-10-16T15:30 done (49/60)
+2026-11-03 19:55:56,519 INFO slot 2026-10-19T15:30 done (50/60)
+2026-11-03 19:56:11,105 INFO slot 2026-10-20T15:30 done (51/60)
+2026-11-03 19:56:29,556 INFO slot 2026-10-21T15:30 done (52/60)
+2026-11-03 19:56:48,415 INFO slot 2026-10-22T15:30 done (53/60)
+2026-11-03 19:57:05,124 INFO slot 2026-10-23T15:30 done (54/60)
+2026-11-03 19:57:34,416 INFO slot 2026-10-26T15:30 done (55/60)
+2026-11-03 19:57:49,865 INFO slot 2026-10-27T15:30 done (56/60)
+2026-11-03 19:58:06,386 INFO slot 2026-10-28T15:30 done (57/60)
+2026-11-03 19:58:22,015 INFO slot 2026-10-29T15:30 done (58/60)
+2026-11-03 19:58:36,166 INFO slot 2026-10-30T15:30 done (59/60)
+2026-11-03 19:59:09,811 INFO slot 2026-11-02T15:30 done (60/60)
+2026-11-03 19:59:09,916 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 19:59:09,923 INFO Out-of-sample validation completed
+2026-11-03 19:59:09,923 INFO Running bootstrap comparison vs index returns...
+2026-11-03 19:59:10,181 INFO Bootstrap comparison vs index completed
+2026-11-03 19:59:10,196 INFO Statistical validation report saved to: results/backtest/report/arms/AAPL_baseline/results/analysis/AAPL_baseline_statistical_validation.json
+2026-11-03 19:59:36,860 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 19:59:36,865 INFO Out-of-sample validation completed
+2026-11-03 19:59:36,865 INFO Running bootstrap comparison vs index returns...
+2026-11-03 19:59:37,124 INFO Bootstrap comparison vs index completed
+2026-11-03 19:59:37,136 INFO Statistical validation report saved to: results/backtest/report/arms/AAPL_memory_feeling/results/analysis/AAPL_memory_feeling_statistical_validation.json
+[CONFIG] Active experiment: memory_feeling
+         Memory + feeling: no dates
+         dates=False, memory=True, feeling=True, chain_of_thought=True (master toggle), technical=True
+NOTE: START_ROW = 0 will still skip ~40 days due to technical indicator requirements
+    Effective trading start will be approximately 40 trading days after DATA_START
+    With DATA_START = '2015-03-03', expect trading to begin around 2015-04-12
+[CONFIG] [OK] Primary: vendored frozen snapshot (offline, checksummed)
+[CONFIG] 📦 File: data/raw/spy_daily.csv
+[CONFIG] 🔄 Fallback: None (vendored is offline-by-design)
+[CONFIG] [DATES] Date range: 2015-03-03 to 2023-12-31
+[CONFIG] 🧪 Test mode: ON (5 days)
+[CONFIG] 📊 Symbol: ^GSPC
+[CONFIG] 🏷️  Display name: S&P 500 Index
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/AAPL_baseline/results/analysis/AAPL_baseline_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/AAPL_baseline/results/analysis/AAPL_baseline_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_equity_curves.png
+Generating comprehensive report for AAPL_baseline...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in markdown format...
+  Report content length: 26529 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_baseline/results/reports/AAPL_baseline_comprehensive_report.md
+Generating comprehensive report for AAPL_baseline...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 12 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_baseline/results/plots/AAPL_baseline_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in html format...
+  Report content length: 77720 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_baseline/results/reports/AAPL_baseline_comprehensive_report.html
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/AAPL_memory_feeling/results/analysis/AAPL_memory_feeling_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/AAPL_memory_feeling/results/analysis/AAPL_memory_feeling_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_equity_curves.png
+Generating comprehensive report for AAPL_memory_feeling...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in markdown format...
+  Report content length: 26547 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_memory_feeling/results/reports/AAPL_memory_feeling_comprehensive_report.md
+Generating comprehensive report for AAPL_memory_feeling...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 12 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+2026-11-03 20:00:04,416 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 20:00:04,421 INFO Out-of-sample validation completed
+2026-11-03 20:00:04,421 INFO Running bootstrap comparison vs index returns...
+2026-11-03 20:00:04,885 INFO Bootstrap comparison vs index completed
+2026-11-03 20:00:04,896 INFO Statistical validation report saved to: results/backtest/report/arms/AAPL_memory_only/results/analysis/AAPL_memory_only_statistical_validation.json
+2026-11-03 20:00:31,411 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 20:00:31,415 INFO Out-of-sample validation completed
+2026-11-03 20:00:31,416 INFO Running bootstrap comparison vs index returns...
+2026-11-03 20:00:31,883 INFO Bootstrap comparison vs index completed
+2026-11-03 20:00:31,894 INFO Statistical validation report saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/analysis/AAPL_memory_only_cot_statistical_validation.json
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_memory_feeling/results/plots/AAPL_memory_feeling_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in html format...
+  Report content length: 76905 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_memory_feeling/results/reports/AAPL_memory_feeling_comprehensive_report.html
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/AAPL_memory_only/results/analysis/AAPL_memory_only_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/AAPL_memory_only/results/analysis/AAPL_memory_only_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_equity_curves.png
+Generating comprehensive report for AAPL_memory_only...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in markdown format...
+  Report content length: 26522 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_memory_only/results/reports/AAPL_memory_only_comprehensive_report.md
+Generating comprehensive report for AAPL_memory_only...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 12 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_memory_only/results/plots/AAPL_memory_only_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in html format...
+  Report content length: 76869 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_memory_only/results/reports/AAPL_memory_only_comprehensive_report.html
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/analysis/AAPL_memory_only_cot_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/analysis/AAPL_memory_only_cot_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_equity_curves.png
+Generating comprehensive report for AAPL_memory_only_cot...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  ✓ Chain of thought analysis completed
+  Found 12 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+    chain_of_thought_quality: 6 items
+    chain_of_thought_performance: 5 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_indicator_performance.png
+
+[INFO] Chain of thought quality visualizations saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_chain_of_thought_quality.png
+  ✓ Chain of thought visualizations generated
+  Generated 7 additional charts
+2026-11-03 20:01:01,835 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 20:01:01,839 INFO Out-of-sample validation completed
+2026-11-03 20:01:01,839 INFO Running bootstrap comparison vs index returns...
+2026-11-03 20:01:02,094 INFO Bootstrap comparison vs index completed
+2026-11-03 20:01:02,105 INFO Statistical validation report saved to: results/backtest/report/arms/SPY_baseline/results/analysis/SPY_baseline_statistical_validation.json
+2026-11-03 20:01:28,439 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 20:01:28,445 INFO Out-of-sample validation completed
+2026-11-03 20:01:28,445 INFO Running bootstrap comparison vs index returns...
+2026-11-03 20:01:28,904 INFO Bootstrap comparison vs index completed
+2026-11-03 20:01:28,914 INFO Statistical validation report saved to: results/backtest/report/arms/SPY_memory_feeling/results/analysis/SPY_memory_feeling_statistical_validation.json
+  Generating master report in markdown format...
+  Report content length: 27936 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_memory_only_cot/results/reports/AAPL_memory_only_cot_comprehensive_report.md
+Generating comprehensive report for AAPL_memory_only_cot...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  ✓ Chain of thought analysis completed
+  Found 12 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 13 plot files
+    llm_indicator_alignment: 6 items
+    chain_of_thought_quality: 6 items
+    chain_of_thought_performance: 5 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_indicator_performance.png
+
+[INFO] Chain of thought quality visualizations saved to: results/backtest/report/arms/AAPL_memory_only_cot/results/plots/AAPL_memory_only_cot_chain_of_thought_quality.png
+  ✓ Chain of thought visualizations generated
+  Generated 7 additional charts
+  Generating master report in html format...
+  Report content length: 82969 characters
+✓ Comprehensive report generated: results/backtest/report/arms/AAPL_memory_only_cot/results/reports/AAPL_memory_only_cot_comprehensive_report.html
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/SPY_baseline/results/analysis/SPY_baseline_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/SPY_baseline/results/analysis/SPY_baseline_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_equity_curves.png
+Generating comprehensive report for SPY_baseline...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in markdown format...
+  Report content length: 26237 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_baseline/results/reports/SPY_baseline_comprehensive_report.md
+Generating comprehensive report for SPY_baseline...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 12 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_baseline/results/plots/SPY_baseline_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in html format...
+  Report content length: 76083 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_baseline/results/reports/SPY_baseline_comprehensive_report.html
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/SPY_memory_feeling/results/analysis/SPY_memory_feeling_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/SPY_memory_feeling/results/analysis/SPY_memory_feeling_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_equity_curves.png
+Generating comprehensive report for SPY_memory_feeling...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_rolling_performance.png
+2026-11-03 20:01:55,897 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 20:01:55,902 INFO Out-of-sample validation completed
+2026-11-03 20:01:55,902 INFO Running bootstrap comparison vs index returns...
+2026-11-03 20:01:56,161 INFO Bootstrap comparison vs index completed
+2026-11-03 20:01:56,173 INFO Statistical validation report saved to: results/backtest/report/arms/SPY_memory_only/results/analysis/SPY_memory_only_statistical_validation.json
+2026-11-03 20:02:23,066 INFO Running out-of-sample validation with split date: 2026-10-07 00:00:00
+2026-11-03 20:02:23,071 INFO Out-of-sample validation completed
+2026-11-03 20:02:23,071 INFO Running bootstrap comparison vs index returns...
+2026-11-03 20:02:23,327 INFO Bootstrap comparison vs index completed
+2026-11-03 20:02:23,338 INFO Statistical validation report saved to: results/backtest/report/arms/SPY_memory_only_cot/results/analysis/SPY_memory_only_cot_statistical_validation.json
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in markdown format...
+  Report content length: 26467 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_memory_feeling/results/reports/SPY_memory_feeling_comprehensive_report.md
+Generating comprehensive report for SPY_memory_feeling...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 12 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_memory_feeling/results/plots/SPY_memory_feeling_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in html format...
+  Report content length: 76339 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_memory_feeling/results/reports/SPY_memory_feeling_comprehensive_report.html
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/SPY_memory_only/results/analysis/SPY_memory_only_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/SPY_memory_only/results/analysis/SPY_memory_only_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_equity_curves.png
+Generating comprehensive report for SPY_memory_only...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in markdown format...
+  Report content length: 26427 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_memory_only/results/reports/SPY_memory_only_comprehensive_report.md
+Generating comprehensive report for SPY_memory_only...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  Found 10 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 12 plot files
+    llm_indicator_alignment: 6 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_memory_only/results/plots/SPY_memory_only_indicator_performance.png
+  Generated 6 additional charts
+  Generating master report in html format...
+  Report content length: 76294 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_memory_only/results/reports/SPY_memory_only_comprehensive_report.html
+
+[INFO] Calibration plot saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_calibration.png
+
+[INFO] Calibration by decision plot saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_calibration_by_decision.png
+
+[INFO] Calibration analysis report saved to: results/backtest/report/arms/SPY_memory_only_cot/results/analysis/SPY_memory_only_cot_calibration_analysis.md
+
+[INFO] Decision pattern plots saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_decision_patterns.png
+
+[INFO] Pattern analysis report saved to: results/backtest/report/arms/SPY_memory_only_cot/results/analysis/SPY_memory_only_cot_pattern_analysis.md
+[INFO] Technical indicators plot saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_technical_indicators.png
+[INFO] RSI performance analysis plot saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_rsi_performance.png
+[INFO] Baseline comparison plot saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_baseline_comparison.png
+[INFO] Equity curves plot saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_equity_curves.png
+Generating comprehensive report for SPY_memory_only_cot...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  ✓ Chain of thought analysis completed
+  Found 12 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 7 plot files
+    llm_indicator_alignment: 6 items
+    chain_of_thought_quality: 6 items
+    chain_of_thought_performance: 5 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_indicator_performance.png
+
+[INFO] Chain of thought quality visualizations saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_chain_of_thought_quality.png
+  ✓ Chain of thought visualizations generated
+  Generated 7 additional charts
+  Generating master report in markdown format...
+  Report content length: 27780 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_memory_only_cot/results/reports/SPY_memory_only_cot_comprehensive_report.md
+Generating comprehensive report for SPY_memory_only_cot...
+  Collecting data sources...
+  ✓ LLM indicator alignment analysis completed
+  ✓ Chain of thought analysis completed
+  Found 12 data sources
+    statistical_validation: 8 items
+    baseline_comparison: 16 items
+    calibration_analysis: available
+    pattern_analysis: available
+    parsed_data: 59 items
+    daily_data: 59 items
+    realized_costs: 4 items
+    features_data: 59 items
+    plots: 13 plot files
+    llm_indicator_alignment: 6 items
+    chain_of_thought_quality: 6 items
+    chain_of_thought_performance: 5 items
+  Generating additional charts...
+✓ Rolling performance chart saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_rolling_performance.png
+✓ Risk analysis chart saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_risk_analysis.png
+[INFO] Technical indicators timeline saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_technical_timeline.png
+✓ Strategy category performance plot saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_category_performance.png
+✓ Indicator performance analysis plot saved: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_indicator_performance.png
+
+[INFO] Chain of thought quality visualizations saved to: results/backtest/report/arms/SPY_memory_only_cot/results/plots/SPY_memory_only_cot_chain_of_thought_quality.png
+  ✓ Chain of thought visualizations generated
+  Generated 7 additional charts
+  Generating master report in html format...
+  Report content length: 81507 characters
+✓ Comprehensive report generated: results/backtest/report/arms/SPY_memory_only_cot/results/reports/SPY_memory_only_cot_comprehensive_report.html
